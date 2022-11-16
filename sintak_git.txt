@@ -1,0 +1,6 @@
+git init
+git add
+git commit -m "updates"
+git branch -M master
+git remote add origin https://github.com/deniiskandar3444/toko-buku.git
+git push
